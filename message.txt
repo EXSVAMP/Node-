@@ -1,0 +1,7 @@
+子进程当前工作目录：/Users/huangwei/Documents/yuanma/nodeTest/test1
+0:/usr/local/bin/node
+1:/Users/huangwei/Documents/yuanma/nodeTest/test1/test1.js
+2:one
+3:two
+4:three
+5:four
